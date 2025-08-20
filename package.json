@@ -1,0 +1,14 @@
+{
+  "name": "fireworks-symphony",
+  "version": "0.1.0",
+  "description": "Browser-based fireworks simulation with TypeScript",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'No tests yet'"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
